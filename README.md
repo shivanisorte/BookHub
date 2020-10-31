@@ -15,3 +15,5 @@ There's also a fragment called 'Favourites' which is totally functional. The col
 
 
 ![SC2 Video](med/3.gif)
+
+<hr>
