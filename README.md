@@ -18,7 +18,7 @@ There's also a fragment called 'Favourites' which is totally functional. The col
 
 <hr>
 
-When the device is not connected to the internet, the app asks the user to either exit or connect to the internet by opening the settings.
+When the device doesn't have network connection, the app asks the user to either exit or connect to network by opening the settings.
 
 ![SC2 Video](med/4.gif)
 
